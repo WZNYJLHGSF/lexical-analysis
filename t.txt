@@ -1,0 +1,30 @@
+int main() {
+	//hfkdjgdfg
+	//"//"注释
+	/*hfghfghfghfghfgh
+	dfgdfgd
+	dfgdfgdf*/
+	//"/**/"注释
+	int a = 0, d = 9, e;//标识符+常数+'='
+	char b = 'a';//char+'''
+	char bb = 'dddddddddd';//字符错误
+	float f = 1.22;//小数
+	int aaa := 10;//:=
+	e = a + d;//'+'
+	e++;//'++'
+	r=1..5;
+	const char* c_v = "dsfsd";//stirng+'*'+'"'
+	e = 2-e3;//指数
+	if (a == d)//"=="(关系运算符)
+		a << 1;//"<<"(位运算符)
+	else if(a >= d) {//">="(关系运算符)
+		a += d;//"+="(赋值运算符)
+		d = a % d;
+	}
+	if (a && d)//'&&'
+		int df4df = 9;
+	char sdd = 'dddddddvfdfgdfdfgdfg;
+	//引号错误
+	return 0;
+		
+}
